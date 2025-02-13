@@ -7,11 +7,9 @@
     }
   ],
   "routes": [
-    {
-    "src": "/", "dest": "index.js",
-    "src": "/info", "dest": "index.js",
-    "src": "/mp3", "dest": "index.js",
-    "src": "/mp4", "dest": "index.js"
-    }
+    {"src": "/", "dest": "index.js",}
+    {"src": "/info", "dest": "index.js",}
+    {"src": "/mp3", "dest": "index.js",}
+    {"src": "/mp4", "dest": "index.js"}
   ]
 }
